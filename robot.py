@@ -1,3 +1,10 @@
+# Robot Motion Planning
+#
+# Autors:
+#
+# - Efrain Adrian Luna Nevarez
+# - Efrain Arrambide Barron
+#
 import random
 
 ## Contants
